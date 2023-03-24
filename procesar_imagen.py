@@ -3,8 +3,8 @@ import mediapipe as mp
 import numpy as np
 
 
-def procesar ():
-    mano_foto= cv2.imread("dataset/abrir/5.jpg")
+def procesar (ruta):
+    mano_foto= cv2.imread(ruta)
     mano_RGB = cv2.cvtColor(mano_foto,cv2.COLOR_BGR2RGB)
     mano_flip = cv2.flip(mano_RGB,1)
     mediapipe_manos = mp.solutions.hands 
@@ -59,7 +59,7 @@ def procesar ():
         return(np.zeros([1,63], dtype=int)[0])
     
 if __name__ == "__main__":
-    procesar
+    procesar()
 
 
 
