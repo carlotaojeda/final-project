@@ -9,7 +9,7 @@ def crear_csv():
     """
     carpeta = 'dataset'
     archivo_csv = open('dataset.csv', 'a')
-
+    print ("llega aquí")
     # Recorre cada carpeta de la carpeta 'dataset'
     for carpeta_sub in os.listdir(carpeta):
         # Ignora archivos ocultos
