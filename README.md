@@ -5,7 +5,8 @@ En este proyecto hemos creado una red neuronal para poder reconocer señales que
 
 Es un programa que reconoce en tiempo real la señal que estamos haciendo y realiza una acción tras reconocerla. 
 
-![](/videos/Ejemplo.mp4)
+![](/archives/gif.oficial.gif)
+
 
 
 
