@@ -5,6 +5,12 @@ En este proyecto hemos creado una red neuronal para poder reconocer señales que
 
 Es un programa que reconoce en tiempo real la señal que estamos haciendo y realiza una acción tras reconocerla. 
 
+<video width="640" height="480" controls>
+  <source src="./videos/Ejemplo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## ¿Cómo lo hemos creado?  
 
 1.  Creamos el data Set  y creamos un CSV donde tenga las coordenadas de nuestras señales 
