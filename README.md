@@ -11,6 +11,7 @@ Es un programa que reconoce en tiempo real la señal que estamos haciendo y real
 </video>
 
 
+
 ## ¿Cómo lo hemos creado?  
 
 1.  Creamos el data Set  y creamos un CSV donde tenga las coordenadas de nuestras señales 
