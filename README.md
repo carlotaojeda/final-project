@@ -35,9 +35,7 @@ Una vez tomadas las fotos crearemos un CSV donde almacenaremos las coordenadas d
 
 ### 2. Entrenamos el modelo
 
-Utilizamos el modelo SVC para entrenar nuestro modelo, al haber pocas fotos y muy parecidas el modelo salió muy certero y la matriz de confusión nos sale con cero errores: 
-
-FOTO MATRIZ 
+Utilizamos el modelo SVC para entrenar nuestro modelo, al haber pocas fotos y muy parecidas el modelo salió muy certero y la matriz de confusión nos sale con cero errores
 
 
 ### 3.Creamos la app para que actue al ver una señal. 
