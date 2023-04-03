@@ -1,12 +1,11 @@
 
 # Reconocimiento de Señales  ✊ ✋ 👈
 
-En este proyecto hemos creado una red neuronal para poder reconocer señales que hace una persona con la mano, que indica al modelo acciones que tendrá que realizar en la plataforma de Spotify. 
+En este proyecto hemos creado modelo de machine learning para poder reconocer señales que hace una persona con la mano, que indica al modelo acciones que tendrá que realizar en la plataforma de Spotify. 
 
 Es un programa que reconoce en tiempo real la señal que estamos haciendo y realiza una acción tras reconocerla. 
 
 ![](/archives/gif.oficial.gif)
-
 
 
 
@@ -45,4 +44,7 @@ Utilizando la libreria de Spotipy podremos unir nuestro modelo con Spotify para 
 
 Luego abrimos la camara, y procesamos la imagen para poder realizar la predicción. Dependiendo de la señal que hagamos y gracias a nuestro modelo entrenado podremos conseguir que Spotify cambie, pare o haga play a las caciones. 
 
+## Acknowledgements
 
+ - [CoreCode School ](https://github.com/core-school)
+ - [Daniel Alvarado](https://github.com/DanielDls-exe)
